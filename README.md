@@ -1,13 +1,6 @@
 
-
 # Mason Harrison
 Student developer interested in graphics programming, Neural Networks, and Computer Vision.
-
-## Projects
-- **[Image To Drawing](https://github.com/MasonAndrewHarrison/Image-To-Drawing)**: Converts an image into vectorized line art of that image's outline.
-- **[Image Colorizer](https://github.com/MasonAndrewHarrison/Image-Colorizer)**: Takes a black and white image and predicts what the color should be using CIELAB and OKLAB color bins.
-- **[Face Generator](https://github.com/MasonAndrewHarrison/Face-Generator)**: Uses a WGAN-GP to generate images of people's faces.
-- **[GPU Benchmark](https://github.com/MasonAndrewHarrison/GPU-Mandelbrot-Benchmark)**: Uses different coding languages and graphics APIs to render the Mandelbrot set and compares speed.
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
