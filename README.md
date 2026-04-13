@@ -2,6 +2,12 @@
 # Mason Harrison
 Student developer interested in graphics programming, Neural Networks, and Computer Vision.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasonAndrewHarrison&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasonAndrewHarrison&layout=compact&theme=dark)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MasonAndrewHarrison&color=blue)
+
+
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
